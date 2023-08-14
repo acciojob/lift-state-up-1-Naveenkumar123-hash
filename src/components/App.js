@@ -13,7 +13,7 @@ const App = () => {
 
   return (
     <div className="parent">
-             <h2>Parent Component</h2>
+             <h1>Parent Component</h1>
              <p>Child Component</p>
              <Button handling={handling}/>
              {
