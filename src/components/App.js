@@ -19,7 +19,7 @@ const App = () => {
              {
              (showModal)&&<div className="child">
              <h3>Modal Content</h3>
-             <p>This is a Modal Content</p>
+             <p>This is the modal content.</p>
              </div>
              } 
         </div>
