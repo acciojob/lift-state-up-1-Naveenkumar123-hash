@@ -1,1 +1,6 @@
-
+.parent{
+    background-color: rgb(124,38,222);
+}
+.child{
+    background-color: rgb(152,33,34);
+}
